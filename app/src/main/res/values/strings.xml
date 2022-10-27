@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">My Targets Note</string>
+    <string name="text_empty">Заголовок або зміст пусті</string>
+    <string name="saved">Успішно збережено</string>
+    <string name="searchview">SearchView</string>
+    <string name="profile">Profile</string>
+    <string name="menu">Menu</string>
+    <string name="edit_name_table">Edit Base</string>
+    <string name="enter_new_name">enter new Name</string>
+    <string name="enter_work_hours">enter work hours</string>
+    <string name="enter_start_hours">enter start hours</string>
+    <string name="save">Save</string>
+    <string name="enter_few_words">enter few words for yourself</string>
+    <string name="calendar">Calendar</string>
+    <string name="my_next_action">My next action</string>
+</resources>
